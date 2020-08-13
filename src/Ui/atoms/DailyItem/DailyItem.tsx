@@ -17,7 +17,7 @@ const mathC = (temp: number) => {
 
 export const DailyItem: React.FC<Props> = (props) => {
   const { dt } = props.dayData.day;
-// dayjs - librariecare lucreaza cu datele (zilele)
+// dayjs - librarie care lucreaza cu datele (zilele)
   const getDay = () => {
     const newDate = dayjs.unix(dt).date();
     const date = dayjs.unix(dt).day();
