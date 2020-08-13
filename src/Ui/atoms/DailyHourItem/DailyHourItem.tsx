@@ -15,7 +15,7 @@ interface Props {
 const mathC = (temp: number) => {
   return Math.round(temp);
 };
-// transforma datele in grade °C
+// transforma datele in grade °C 
 
 export const DailyHourItem: React.FC<Props> = (props) => {
   return (
