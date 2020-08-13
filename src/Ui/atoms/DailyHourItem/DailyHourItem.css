@@ -1,0 +1,22 @@
+.weather_day_hour h1 {
+  font-size: 18px;
+  color: black;
+  margin-top: -23px;
+}
+.weather_day_hour h2 {
+  margin: 0px;
+  font-size: 20px;
+}
+.weather_day_hour {
+
+  width: 150px;
+  height: 80px;
+  text-align: center;
+  margin: 10px;
+  
+}
+.weather_day__temp {
+  font-size: 22px;
+  font-weight: 700;
+  margin-top: 10px;
+}

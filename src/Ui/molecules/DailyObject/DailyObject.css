@@ -1,0 +1,9 @@
+.weather_container {
+  display: flex;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.loading {
+  font-size: 50px;
+  margin: 0 auto;
+}

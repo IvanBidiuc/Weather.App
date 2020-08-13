@@ -1,0 +1,22 @@
+.weather-day--item {
+  width: 100%;
+  height: 200px;
+  margin: 10px;
+  border-radius: 20px;
+  text-align: center;
+ 
+}
+.weather-day--item h1 {
+  margin-bottom: 0px;
+  margin-top: -45px;
+  color: black;
+}
+.weather-day--item img {
+  margin-top: 20px;
+}
+.weather-day--text {
+  color: black;
+  font-size: 18px;
+  font-weight: 700;
+  margin-top: 5px;
+}
